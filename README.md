@@ -19,7 +19,7 @@ Ideal for students, athletes, or anyone who prefers a no-GUI, keyboard-only work
 
   📦 How to run
 
- python main.py
+ python3 main.py
 
 #############################################
 #    Welcome to Your Calorie Manager App!   #
