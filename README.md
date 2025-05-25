@@ -11,15 +11,15 @@ Ideal for students, athletes, or anyone who prefers a no-GUI, keyboard-only work
 
  ## 📦 Installation
 
-1. **Clone the repo**
+ **Clone the repo**
 
    ```bash
    git clone https://github.com/<your-user>/bodyfit-cli.git
    cd bodyfit-cli
 
-2. python main.py
+ python main.py
 
-3. #############################################
+#############################################
 #    Welcome to Your Calorie Manager App!   #
 #############################################
 
@@ -43,10 +43,12 @@ Enter food eaten (or type "done" to finish): done
 ✅ You are in a significant calorie deficit.
 ----------------------------------
 
-4. Enter food eaten (or type "done" to finish): oatmeal
+Enter food eaten (or type "done" to finish): oatmeal
 "⚠️ oatmeal" not found. Add it? (yes/no): yes
 Enter calories per 100 g: 389
 Enter protein (g) per 100 g: 16.9
+
+
 
 
  
