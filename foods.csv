@@ -1,0 +1,52 @@
+food,calories_per_100g,protein_per_100g
+apple,52,0.3
+banana,89,1.1
+orange,47,0.9
+pear,57,0.4
+grapes,69,0.6
+strawberries,32,0.7
+blueberries,57,0.7
+avocado,160,2.0
+egg,155,13.0
+chicken breast,165,31.0
+salmon,208,20.0
+tuna,132,29.0
+whole wheat bread,247,13.0
+white bread,266,9.0
+oatmeal,389,17.0
+brown rice,123,2.7
+pasta,131,5.0
+broccoli,55,3.7
+spinach,23,2.9
+carrot,41,0.9
+potato (boiled),87,1.9
+sweet potato,86,1.6
+tomato,18,0.9
+cucumber,15,0.7
+bell pepper,31,1.0
+cheddar cheese,403,25.0
+plain yogurt,59,10.0
+whole milk,61,3.2
+almond milk,15,0.5
+butter,717,0.9
+olive oil,884,0.0
+peanut butter,588,25.0
+almonds,579,21.2
+walnuts,654,15.2
+dark chocolate,546,4.9
+ice cream,207,3.5
+cheese pizza,266,11.0
+pepperoni pizza,312,13.0
+burger patty,295,17.0
+fries,312,3.4
+donut,452,4.9
+cookie,502,6.0
+blueberry muffin,346,6.0
+pancake,227,6.0
+waffle,291,5.9
+syrup,260,0.0
+cereal (corn flakes),357,7.6
+granola,471,10.0
+soda,40,0.0
+orange juice,45,0.7
+cake,150.0,50.0
