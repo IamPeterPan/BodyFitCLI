@@ -17,7 +17,7 @@ Ideal for students, athletes, or anyone who prefers a no-GUI, keyboard-only work
    git clone https://github.com/<your-user>/bodyfit-cli.git
    cd bodyfit-cli
 
- ## 📦 How to run
+  📦 How to run
 
  python main.py
 
